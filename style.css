@@ -1,0 +1,26 @@
+:root {
+	
+}
+
+h1 {
+	color:blue;
+}
+
+#the-button {
+	width:200px;
+	height:120px;
+	background-color: #ffdd00;
+	border: 5px outset #ffee44;
+	font: 900 20px Verdana, sans-serif;
+	color: white;
+}
+
+#the-button:hover {
+	background-color: #ffee44;
+	border-color: #ffff88;
+}
+
+#the-button:active {
+	background-color: #ffff88;
+	border-color: #ffffbb;
+}
